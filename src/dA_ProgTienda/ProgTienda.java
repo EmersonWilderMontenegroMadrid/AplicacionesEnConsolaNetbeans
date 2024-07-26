@@ -1,7 +1,6 @@
 package dA_ProgTienda;
 import java.util.Scanner;
 /**
- *
  * @Montenegro Madrid Emerson
  */
 public class ProgTienda {
